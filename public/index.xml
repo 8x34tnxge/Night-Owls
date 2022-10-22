@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ExampleSite</title>
+    <link>https://8x34tnxge.github.io/Night-Owls/</link>
+    <description>Recent content on ExampleSite</description>
+    <image>
+      <url>https://8x34tnxge.github.io/Night-Owls/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://8x34tnxge.github.io/Night-Owls/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Oct 2022 00:13:10 +0900</lastBuildDate><atom:link href="https://8x34tnxge.github.io/Night-Owls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math</title>
+      <link>https://8x34tnxge.github.io/Night-Owls/posts/math/</link>
+      <pubDate>Sun, 23 Oct 2022 00:13:10 +0900</pubDate>
+      
+      <guid>https://8x34tnxge.github.io/Night-Owls/posts/math/</guid>
+      <description>\lambda = \sum^n_i x_i</description>
+    </item>
+    
+    <item>
+      <title>Code Test</title>
+      <link>https://8x34tnxge.github.io/Night-Owls/posts/code/</link>
+      <pubDate>Sun, 23 Oct 2022 00:09:23 +0900</pubDate>
+      
+      <guid>https://8x34tnxge.github.io/Night-Owls/posts/code/</guid>
+      <description>import pandas as pd class test: def __init__(args): pass </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://8x34tnxge.github.io/Night-Owls/posts/test/</link>
+      <pubDate>Sat, 22 Oct 2022 23:52:03 +0900</pubDate>
+      
+      <guid>https://8x34tnxge.github.io/Night-Owls/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>

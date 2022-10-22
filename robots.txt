@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://8x34tnxge.github.io/Night-Owls/sitemap.xml
